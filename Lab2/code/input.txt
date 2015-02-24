@@ -1,0 +1,17 @@
+1 skating 20:30
+1 snowboard 40:50
+2 Gauls gold
+2 Romans silver
+1 curling 80:90
+1 skating 40:50
+2 Gauls silver
+2 Romans bronze
+2 Gauls bronze
+1 skating 60:80
+2 Gauls gold
+1 skating 120:100
+2 Romans bronze
+1 skating 150:170
+2 Gauls silver
+1 snowboard 60:80
+2 Gauls gold
